@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on @Jedox
+- 🔭 I’m currently working on [here](README.md)
 - 💬 Ask me about @Jedox
 - 📫 How to reach me: @vmalic
 <!--
