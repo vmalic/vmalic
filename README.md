@@ -1,9 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Jedox](https://www.jedox.com)
 - 💬 Ask me about [Jedox](https://www.jedox.com)
-- 📫 How to reach me: [@vmalic](https://twitter.com/vmalic)
+- 📫 How to reach me: 
+  [twitter](https://twitter.com/vmalic)
+  [LinkedIn](https://www.linkedin.com/in/vladislavmalicevic/)
 
-<a class="twitter-timeline" href="https://twitter.com/vmalic?ref_src=twsrc%5Etfw">Tweets by vmalic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--
 **vmalic/vmalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
