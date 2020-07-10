@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [here](README.md)
-- 💬 Ask me about @Jedox
-- 📫 How to reach me: @vmalic
+- 🔭 I’m currently working on [Jedox](https://www.jedox.com)
+- 💬 Ask me about [Jedox](https://www.jedox.com)
+- 📫 How to reach me: [@vmalic](https://twitter.com/vmalic)
 <!--
 **vmalic/vmalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
