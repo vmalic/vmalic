@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on @Jedox
+- 💬 Ask me about @Jedox
+- 📫 How to reach me: @vmalic
 <!--
 **vmalic/vmalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
